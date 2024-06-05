@@ -1,3 +1,3 @@
 # Algorithms
 
-This is a project to implement data structure algorithms.
+This is a project to implement data structure algorithms. JavaScript
